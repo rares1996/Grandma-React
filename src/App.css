@@ -1,0 +1,13 @@
+.container {
+  width: 100hw;
+  display: grid;
+  justify-content: center;
+}
+
+.item {
+  width: 750px;
+}
+
+ol {
+    padding: 0;
+}
